@@ -85,7 +85,6 @@ nav ul li a:hover{
     grid-template-columns: 100px 100px 100px 100px 100px;
     gap: 20px;
     max-width: 100%;
-    background-color: rosybrown;
     /* justify-content: center; */
 
 }
@@ -99,7 +98,7 @@ nav ul li a:hover{
     color: black;
     border:3px solid black;
     padding: 20px 20px;
-    background-color: aquamarine;
+    background-color: rosybrown;
 } 
 .wine-image2 h6{
     font-size: x-large;
