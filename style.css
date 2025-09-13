@@ -152,6 +152,7 @@ nav ul li a:hover{
     justify-content: center;
     width: 500px;
     border-radius: 25px;
+    cursor: pointer;
 }
 .find{
     display: grid;
